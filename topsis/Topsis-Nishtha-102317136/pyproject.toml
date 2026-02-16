@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Topsis-Nishtha-123456"
+version = "0.1.0"
+description = "TOPSIS implementation using Python"
+authors = [
+  {name="Nishtha", email="gnishtha648@email.com"}
+]
+dependencies = [
+    "pandas",
+    "numpy",
+    "openpyxl"
+]
+
+[project.scripts]
+topsis = "topsis_nishtha.cli:main"

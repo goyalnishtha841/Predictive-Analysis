@@ -1,0 +1,12 @@
+LICENCE
+pyproject.toml
+setup.cfg
+Topsis_Nishtha_123456.egg-info/PKG-INFO
+Topsis_Nishtha_123456.egg-info/SOURCES.txt
+Topsis_Nishtha_123456.egg-info/dependency_links.txt
+Topsis_Nishtha_123456.egg-info/entry_points.txt
+Topsis_Nishtha_123456.egg-info/requires.txt
+Topsis_Nishtha_123456.egg-info/top_level.txt
+topsis_nishtha/__init__.py
+topsis_nishtha/cli.py
+topsis_nishtha/topsis.py
