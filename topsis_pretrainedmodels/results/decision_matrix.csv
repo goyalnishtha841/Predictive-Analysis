@@ -1,0 +1,6 @@
+Model,Perplexity,Inference_Time_ms,Model_Size_MB,Memory_Usage_GB
+GPT2,35,120,500,3.2
+GPT-Neo,28,240,1300,6.5
+T5,30,180,850,4.5
+BART,27,200,1600,5.8
+DistilGPT2,40,70,300,2.1
